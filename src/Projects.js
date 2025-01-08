@@ -136,7 +136,7 @@ const Projects = () => {
             hover:shadow-2xl hover:shadow-orange-500/20 border border-orange-500/20">
             {/* Header */}
             <div className="mb-6 md:mb-10 border-b border-neutral-700/50 pb-6 md:pb-8">
-              <h2 className="text-3xl md:text-6xl font-extralight text-transparent bg-clip-text bg-gradient-to-r from-orange-400 via-orange-500 to-orange-600 mb-4">
+              <h2 className="text-4xl md:text-6xl font-extralight text-transparent bg-clip-text bg-gradient-to-r from-orange-400 via-orange-500 to-orange-600 mb-4">
                 {projects[selectedProject].title}
               </h2>
               <p className="text-gray-300 flex items-center gap-2 text-sm md:text-base">

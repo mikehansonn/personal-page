@@ -15,7 +15,7 @@ const Logostack = () => {
     },
     {
       icon: FaPaperclip,
-      href: 'https://www.example.com',
+      href: './MikeHanson_Resume.pdf',
       label: 'Resume'
     }
   ];
