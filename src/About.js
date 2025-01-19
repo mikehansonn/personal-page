@@ -40,9 +40,10 @@ const About = () => {
                   <GraduationCap size={24} className="text-white" />
                   Education
                 </h2>
-                <p className="text-gray-300 text-lg leading-relaxed">
-                  I am a senior at <span className="text-orange-400">Virginia Tech</span> studying Computer Science in the
-                  College of Engineering where I am delving into the fascinating world of technology.
+                <p className="text-gray-300 text-lg leading-relaxed">  
+                  I am a senior at <span className="text-orange-400">Virginia Tech</span> studying Computer Science in the  
+                  College of Engineering, where I have consistently been on the Dean's List since Spring 2022. I currently  
+                  maintain a GPA of 3.5, delving into the fascinating world of technology.  
                 </p>
               </div>
 
@@ -55,7 +56,7 @@ const About = () => {
                 <p className="text-gray-300 text-lg leading-relaxed">
                   Apart from the material I learn in my classes, I enjoy working
                   on side projects and learning about the innovation behind software creations that I use everyday. 
-                  Particularly, my most recent interest has been quantum computers and tech that utilizes machine learning.
+                  My most recent interest has been quantum computers and tech that utilizes machine learning.
                 </p>
               </div>
 
