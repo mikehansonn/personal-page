@@ -14,7 +14,7 @@ const Projects = () => {
       title: "Chaos Fantasy",
       date: "Fall 2024",
       technologies: ["Python", "FastAPI", "React", "MongoDB", "Tailwind", "Sockets", "Celery", "Redis", "BS4", "Heroku", "Git", "Docker"],
-      demoUrl: "https://chaos-ff-app-b564eaadb8cf.herokuapp.com/",
+      demoUrl: "https://chaosff.netlify.app/",
       demoCredentials: "Username: admin | Password: pass",
       githubURL: "https://github.com/mikehansonn/fantasy-football",
       description: <Chaos />
@@ -23,7 +23,7 @@ const Projects = () => {
       title: "Bullpen Budgets",
       date: "Spring 2024",
       technologies: ["Python", "HTML", "Node.js", "BS4", "AWS S3", "Git"],
-      demoUrl: "https://bullpenbudgets.com/",
+      demoUrl: "https://bullpenbudgets.netlify.app/",
       githubURL: "https://github.com/mikehansonn/BullpenBudgets",
       description: <BullpenBudgets />
     },
