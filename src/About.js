@@ -41,9 +41,8 @@ const About = () => {
                   Education
                 </h2>
                 <p className="text-gray-300 text-lg leading-relaxed">  
-                  I am a senior at <span className="text-orange-400">Virginia Tech</span> studying Computer Science in the  
-                  College of Engineering, where I have consistently been on the Dean's List since Spring 2022. I currently  
-                  maintain a GPA of 3.5, delving into the fascinating world of technology.  
+                  I am an alumnus of <span className="text-orange-400">Virginia Tech</span>, where I studied Computer Science in the  
+                  College of Engineering. I graduated with Honors, maintaining a 3.52 GPA while delving into the fascinating world of technology.
                 </p>
               </div>
 
