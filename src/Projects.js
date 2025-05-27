@@ -4,12 +4,21 @@ import Chaos from './Chaos';
 import BullpenBudgets from './BullpenBudgets';
 import SPXRadar from './SPXRadar';
 import DeterrentRobots from './DeterrentRobots';
+import AiceHigh from './AiceHigh';
 
 const Projects = () => {
   const [selectedProject, setSelectedProject] = useState(0);
   const [isHovered, setIsHovered] = useState(null);
 
   const projects = [
+    {
+      title: "Aice High",
+      date: "Spring 2025",
+      technologies: ["Python", "FastAPI", "React", "Tailwind", "OpenAI API", "Git"],
+      demoUrl: "https://aicehigh.netlify.app/",
+      githubURL: "https://github.com/mikehansonn/6-handed-poker",
+      description: <AiceHigh />
+    },
     {
       title: "Chaos Fantasy",
       date: "Fall 2024",
