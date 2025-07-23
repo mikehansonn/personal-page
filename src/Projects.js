@@ -3,7 +3,6 @@ import { ExternalLink, Github, ChevronLeft, ChevronRight, Calendar, Wrench } fro
 import Chaos from './Chaos';
 import BullpenBudgets from './BullpenBudgets';
 import SPXRadar from './SPXRadar';
-import DeterrentRobots from './DeterrentRobots';
 import AiceHigh from './AiceHigh';
 
 const Projects = () => {
@@ -43,13 +42,6 @@ const Projects = () => {
       demoUrl: "https://www.spxradar.xyz/",
       githubURL: "https://github.com/mikehansonn/StockAnalysisEngine",
       description: <SPXRadar />
-    },
-    {
-      title: "Deterrent Robots",
-      date: "Fall 2022 - Spring 2023",
-      technologies: ["C", "Python", "Flask", "Raspberry Pi", "Electronic Compass", "GPS-RTK", "CAD"],
-      demoUrl: null,
-      description: <DeterrentRobots />
     }
   ];
 
