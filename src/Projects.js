@@ -31,7 +31,6 @@ const Projects = () => {
       title: "Bullpen Budgets",
       date: "Spring 2024",
       technologies: ["Python", "HTML", "Node.js", "BS4", "AWS S3", "Git"],
-      demoUrl: "https://bullpenbudgets.netlify.app/",
       githubURL: "https://github.com/mikehansonn/BullpenBudgets",
       description: <BullpenBudgets />
     },
@@ -39,7 +38,6 @@ const Projects = () => {
       title: "SPX Radar",
       date: "Fall 2023",
       technologies: ["Python", "Flask", "yfinance", "PythonAnywhere", "Git"],
-      demoUrl: "https://www.spxradar.xyz/",
       githubURL: "https://github.com/mikehansonn/StockAnalysisEngine",
       description: <SPXRadar />
     }
